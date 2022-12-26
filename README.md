@@ -24,7 +24,7 @@ Esse pode ser um pouco confuso no começo, mas é de fato, bem simples.
 |--|--|
 |Node  |`Uso do Node.js para iniciar o banimento`  |
 |Public.js|`O nome do script que da ban`|
-|canal/canal/canal/canal  |`Canais separados por "/" `|
+|canal/canal/canal/canal  |`Canais separados por "/" (n tem limite de quantos canais vc pode colocar, mas pode dar erro`|
 |"BanLista.txt"| `O arquivo de texto onde esta os nicks`|
 
 ### Não consigo rodar:
