@@ -27,4 +27,6 @@ Esse pode ser um pouco confuso no começo, mas é de fato, bem simples.
 |canal/canal/canal/canal  |`Canais separados por "/" `|
 |"BanLista.txt"| `O arquivo de texto onde esta os nicks`|
 
-
+### Não consigo rodar:
+Só instalar:
+https://nodejs.org/en/
