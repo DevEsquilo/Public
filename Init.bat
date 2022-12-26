@@ -1,0 +1,1 @@
+node Public.js canal/canal/canal/canal "BanLista.txt"
